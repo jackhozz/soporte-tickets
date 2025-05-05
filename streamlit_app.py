@@ -20,8 +20,8 @@ def main():
     """Main function to run the Streamlit app."""
     set_background("FONDO SIST CMM (CLARO).png") # Reemplaza con la ruta de tu imagen
 
-    st.title("¡Hola desde Streamlit!")
-    st.write("Esta es una página sencilla con una imagen de fondo.")
+    st.title("Soportes CMM")
+    
 
 if __name__ == "__main__":
     main()
